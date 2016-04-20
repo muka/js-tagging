@@ -1,6 +1,6 @@
 # tagging
 
-A tagging library for node js with children support
+A javascript tagging library to handle generic tags tree
 
 ```
 var tag = new Tag('myobject');
