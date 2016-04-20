@@ -1,0 +1,14 @@
+{
+  "name": "node-tagging",
+  "version": "1.0.0",
+  "description": "Create and manages tags trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test/*.test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
